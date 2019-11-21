@@ -1,27 +1,38 @@
-.link_inline{
-    display: inline !important;
+.link_inline {
+	display: inline !important;
 }
 
-.merienda
-{
-	font-family: 'Merienda', cursive ;
+.merienda {
+	font-family: 'Merienda', cursive;
 }
-.fredericka
-{
-	font-family: 'Fredericka the Great', cursive ;
+.fredericka {
+	font-family: 'Fredericka the Great', cursive;
 }
-.cinzel
-{
-font-family: 'Cinzel Decorative', cursive ;
+.cinzel {
+	font-family: 'Cinzel Decorative', cursive;
 }
 
-
-.dance
-{
-	font-family: 'Dancing Script', cursive; 
+.dance {
+	font-family: 'Dancing Script', cursive;
 }
 
+.submitButton:hover {
+	background: purple;
+}
 
-.submitButton:hover{
-	background: purple ;
+.uk-input {
+	border-radius: 50px;
+}
+
+.lables {
+	border: 2px #ffc107 solid;
+	background: transparent;
+	color: black;
+	padding: 5px;
+	width: 100%;
+	border-radius: 5px;
+}
+
+.lables:hover {
+	background: #ffc107;
 }
